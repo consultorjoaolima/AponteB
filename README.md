@@ -111,5 +111,5 @@ Recife • Pernambuco
 ---
 
 ## Desenvolvedor
-Gmail: nicollassantos.dev@gmail.com
+Gmail: nicollassantos.dev@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/nicollas-dos-santos-bento-30b743414/)
