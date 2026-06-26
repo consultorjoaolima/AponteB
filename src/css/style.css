@@ -829,6 +829,7 @@ section {
 }
 
 .service-card--featured {
+    margin-top: 11px;
     background: linear-gradient(135deg, var(--azul), var(--azul-2));
     color:      var(--branco);
 }
@@ -928,8 +929,8 @@ section {
 @media (min-width: 1024px) {
 
   .services__grid {
-    grid-template-columns: repeat(3, 1fr);
-    align-items:           stretch;
+    grid-template-columns: repeat(2, 1fr);  /* era repeat(3, 1fr) */
+    align-items: stretch;
   }
 
   .service-card {
